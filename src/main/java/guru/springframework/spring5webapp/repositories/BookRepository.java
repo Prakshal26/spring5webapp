@@ -1,9 +1,7 @@
-package java.guru.springframework.spring5webapp.repositories;
+package guru.springframework.spring5webapp.repositories;
 
-
+import guru.springframework.spring5webapp.domain.Book;
 import org.springframework.data.repository.CrudRepository;
-
-import java.guru.springframework.spring5webapp.domain.Book;
 
 /**
  * Created by jt on 12/23/19.
